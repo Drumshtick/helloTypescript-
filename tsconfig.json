@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
-    "outDir": "compiled/"
+    "outDir": "compiled/",
+    "watch": true
   },
   "exclude": ["node_modules", "**/*.spec.ts"]
 }
