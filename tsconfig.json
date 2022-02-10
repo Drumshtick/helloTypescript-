@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "outDir": "compiled/"
+  },
+  "exclude": ["node_modules", "**/*.spec.ts"]
+}
